@@ -1,4 +1,4 @@
-##Lane Detection using OpenCV
+## Lane Detection using OpenCV
 
 This project demonstrates a simple lane detection algorithm using OpenCV library. The algorithm processes video footage or image frames and identifies the lane markings on the road, providing a visualization of the detected lanes.
 
